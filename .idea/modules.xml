@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AutoTest.iml" filepath="$PROJECT_DIR$/.idea/AutoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter10/Chapter10.iml" filepath="$PROJECT_DIR$/Chapter10/Chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter11/Chapter11.iml" filepath="$PROJECT_DIR$/Chapter11/Chapter11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter9/Chapter9.iml" filepath="$PROJECT_DIR$/Chapter9/Chapter9.iml" />
     </modules>
   </component>
 </project>
