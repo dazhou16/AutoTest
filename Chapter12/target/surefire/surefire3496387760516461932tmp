@@ -1,0 +1,6 @@
+#surefire
+#Sat Apr 07 22:38:20 CST 2018
+skipTests=false
+user.dir=/workspace/muke/AutoTest/Chapter12
+localRepository=/Users/zjy/.m2/repository
+basedir=/workspace/muke/AutoTest/Chapter12

@@ -16,6 +16,6 @@ spring:
        password: 123456
 
 mybatis:
-    type-aliases-package: com.course.model
+    type-aliases-package: com.course.com.course.model
     mapper-locations:
        - mapper/*

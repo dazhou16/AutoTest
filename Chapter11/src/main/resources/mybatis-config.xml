@@ -13,11 +13,11 @@
 -->
 <!DOCTYPE configuration
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
-        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+        "http://mybatis.org/dtd/mybatis-3-com.course.config.dtd">
 
 <configuration>
     <typeAliases>
-        <package name="com.course.model"/>
+        <package name="com.course.com.course.model"/>
     </typeAliases>
     <mappers>
         <mapper resource="mapper/mysql.xml"/>

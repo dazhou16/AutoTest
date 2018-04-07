@@ -1,0 +1,16 @@
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/DependTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/TimeOutTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/ExpectedException.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/groups/GroupsOnMethod.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/IgnoreTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass2.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass1.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/paramter/DataProviderTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnXml.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/suite/PayTest.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass3.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/multiThread/MultiThreadOnAnnotion.java
+/workspace/muke/AutoTest/Chapter5/src/main/java/com/course/testng/paramter/ParamterTest.java

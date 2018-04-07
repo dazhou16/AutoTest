@@ -1,0 +1,16 @@
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/utils/DatabaseUtil.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/cases/LoginTest.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/cases/AddUserTest.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/InterfaceName.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/cases/UpdateUserInfoTest.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/GetUserInfoCase.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/UpdateUserInfoCase.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/config/ExtentTestNGIReporterListener.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/config/TestConfig.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/cases/GetUserInfoTest.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/utils/ConfigFile.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/cases/GetUserInfoListTest.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/AddUserCase.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/GetUserListCase.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/LoginCase.java
+/workspace/muke/AutoTest/Chapter12/src/main/java/com/course/model/User.java
