@@ -68,7 +68,7 @@ public class UpdateUserInfoTest {
         HttpResponse response = TestConfig.defaultHttpClient.execute(post);
 
         result = EntityUtils.toString(response.getEntity(),"utf-8");
-        Thread.sleep(5000);
+        Thread.sleep(10000);
 
         return  Integer.parseInt(result);
     }
