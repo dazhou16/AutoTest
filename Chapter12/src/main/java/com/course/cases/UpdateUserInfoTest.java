@@ -25,7 +25,6 @@ public class UpdateUserInfoTest {
         System.out.println(TestConfig.updateUserInfoUrl);
 
         int result = getResult(updateUserInfoCase);
-        Thread.sleep(5000);
         User user = session.selectOne(updateUserInfoCase.getExpected(),updateUserInfoCase);
 
         Assert.assertNotNull(user);
@@ -43,14 +42,13 @@ public class UpdateUserInfoTest {
 
 
         int result = getResult(updateUserInfoCase);
-        Thread.sleep(5000);
         User user = session.selectOne(updateUserInfoCase.getExpected(),updateUserInfoCase);
 
         Assert.assertNotNull(user);
         Assert.assertNotNull(result);
     }
 
-    private int getResult(UpdateUserInfoCase updateUserInfoCase) throws IOException {
+    private int getResult(UpdateUserInfoCase updateUserInfoCase) throws IOException, InterruptedException {
         HttpPost post = new HttpPost(TestConfig.updateUserInfoUrl);
         JSONObject param = new JSONObject();
         param.put("id",updateUserInfoCase.getUserId());
@@ -70,6 +68,7 @@ public class UpdateUserInfoTest {
         HttpResponse response = TestConfig.defaultHttpClient.execute(post);
 
         result = EntityUtils.toString(response.getEntity(),"utf-8");
+        Thread.sleep(5000);
 
         return  Integer.parseInt(result);
     }
